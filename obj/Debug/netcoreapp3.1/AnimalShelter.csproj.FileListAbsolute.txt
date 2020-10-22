@@ -1,0 +1,13 @@
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.exe
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.deps.json
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.runtimeconfig.json
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.runtimeconfig.dev.json
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.dll
+C:\Users\user\comIT\Unit3examples\AnimalShelter\bin\Debug\netcoreapp3.1\AnimalShelter.pdb
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.csprojAssemblyReference.cache
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.AssemblyInfoInputs.cache
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.AssemblyInfo.cs
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.dll
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.pdb
+C:\Users\user\comIT\Unit3examples\AnimalShelter\obj\Debug\netcoreapp3.1\AnimalShelter.genruntimeconfig.cache
